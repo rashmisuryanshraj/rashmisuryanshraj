@@ -1,4 +1,3 @@
-![logo](https://github.com/rashmisuryanshraj/rashmisuryanshraj/blob/main/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Suryansh Raj</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src = "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
